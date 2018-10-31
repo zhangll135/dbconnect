@@ -1,3 +1,6 @@
 [submodule "blink"]
 	path = blink
 	url = https://github.com/zhangll135/blink
+	branch = stable
+[submodule "DbConnector"]
+	branch = stable
